@@ -290,3 +290,5 @@ The project provides a foundation for learning numerical computing in
 Python. Adding stronger input validation, consistent array management,
 dimension-aware indexing, and systematic testing would make it more
 robust and presentation-ready.
+
+video link = https://drive.google.com/file/d/1JFcACv1ahZ1jTC8n-_sI2oQHWQ0C7cn-/view?usp=sharing
