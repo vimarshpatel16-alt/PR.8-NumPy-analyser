@@ -1,3 +1,5 @@
+# my juypter is not working so mam told me to do in python 
+
 import numpy as np
 
 print("Welcome to the NumPy Analyzer!")
